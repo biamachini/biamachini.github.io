@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #d4d4d496;
 }
 
 .resume-contents {
@@ -21,13 +21,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #154218;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4B6982;
+    background-color: #777976;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -37,13 +37,13 @@ body {
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #1B2631;
+    border-bottom: 2px solid #154218;
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
+    border: 8px solid #154218;
 }
 
 .name {
@@ -57,7 +57,7 @@ body {
 }
 
 .profession {
-    color: #FDB44B;
+    color: #e2fd4b;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -68,7 +68,7 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #FDB44B;
+    color: #e2fd4b;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -84,7 +84,7 @@ body {
 
 .contact-info ul li,
 .references ul li {
-    padding: .4rem 0;
+    padding: 1rem;
     display: flex;
     align-items: center;
     color: #d6dbdfaf;
@@ -96,14 +96,14 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #2E86C1;
+    color: #129b12;
 }
 
 .skills ul {
     padding-top: 1.5rem;
 }
 .skills ul li p {
-    padding: .4rem 0;
+    padding: 1rem;
     color: #d6dbdfaf;
     font-size: 18px;
     letter-spacing: 1px;
@@ -135,7 +135,7 @@ body {
 }
 
 .right-title {
-    color: #70C6C7;
+    color: #021a06;
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -172,7 +172,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #e2fd4b;
     padding-bottom: .4rem;
 }
 
@@ -191,7 +191,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #e2fd4b;
     padding-bottom: .4rem;
 }
 
